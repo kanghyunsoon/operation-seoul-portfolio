@@ -1,3 +1,5 @@
+본 저장소는 포트폴리오 공개용 저장소로, 실제 실행을 위해서는 로컬 Gradle 환경과 별도 API Key 설정이 필요합니다.
+
 # Operation KOREA
 
 > TourAPI와 AI를 활용해 관광지를 위치 기반 야외 방탈출 미션으로 전환하는 관광 게이미피케이션 서비스
@@ -272,12 +274,13 @@ GEMINI_API_KEY=your_gemini_api_key
 GOOGLE_VISION_CREDENTIAL_PATH=your_google_vision_json_path
 ```
 
-Backend 실행:
+Backend 실행
 
-```powershell
+로컬에 Gradle이 설치되어 있는 경우 다음 명령어로 실행할 수 있습니다.
+
+```bash
 cd backend
-java -classpath .\gradle\wrapper\gradle-wrapper.jar org.gradle.wrapper.GradleWrapperMain bootRun
-```
+gradle bootRun
 
 <br/>
 
