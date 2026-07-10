@@ -1,5 +1,5 @@
 # SSAFY 1학기 최종PJT 우수상
-<img src="docs/ssafy_pierce.png" alt="상장" width="100%">
+<img src="docs/ssafy_pierce.png" alt="상장" width="50%">
 
 # Operation KOREA
 
