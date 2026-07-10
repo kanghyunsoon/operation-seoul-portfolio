@@ -1,4 +1,5 @@
-본 저장소는 포트폴리오 공개용 저장소로, 실제 실행을 위해서는 로컬 Gradle 환경과 별도 API Key 설정이 필요합니다.
+# SSAFY 1학기 최종PJT 우수상
+<img src="docs/ssafy_pierce.png" alt="상장" width="100%">
 
 # Operation KOREA
 
